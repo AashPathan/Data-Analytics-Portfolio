@@ -22,7 +22,7 @@ Welcome to my Data Analytics Portfolio! This repository showcases my projects us
 **Skills Used:** Tableau, Data Visualization  
 - Explored **EV adoption and overall automobile trends**.  
 - 📌 **[View Dashboard Screenshot](https://github.com/AashPathan/Data-Analytics-Portfolio/blob/main/Tableau%20EV%20Car%20Dashboard.png)**  
-- 📂 **[Download Tableau File](link_to_file.twbx)**  
+- 📂 **[Download Tableau File](https://github.com/AashPathan/Data-Analytics-Portfolio/blob/main/EV%20Analysis.twb)**  
 
 ### 4️⃣ Bike Sales Dashboard (Tableau)  
 **Skills Used:** Tableau, Data Exploration  
