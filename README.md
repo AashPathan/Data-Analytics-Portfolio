@@ -9,7 +9,7 @@ Welcome to my Data Analytics Portfolio! This repository showcases my projects us
 - Analyzed content trends, genre popularity, and regional preferences.  
 - Used **Excel for preprocessing** and **Power BI for visualization**.  
 - 📌 **[View Dashboard Screenshot](https://github.com/AashPathan/Data-Analytics-Portfolio/blob/main/Netflix%20Dashboard.png)**  
-- 📂 **[Download Power BI File](link_to_file.pbix)**  
+- 📂 **[Download Power BI File](https://github.com/AashPathan/Data-Analytics-Portfolio/blob/main/Netflix_Dashboard.pbix)**  
 
 ### 2️⃣ Classic Models Sales Dashboard (Power BI)  
 **Skills Used:** Excel, Power BI, DAX  
