@@ -21,7 +21,7 @@ Welcome to my Data Analytics Portfolio! This repository showcases my projects us
 ### 3️⃣ Electric Vehicle Market Dashboard (Tableau)  
 **Skills Used:** Tableau, Data Visualization  
 - Explored **EV adoption and overall automobile trends**.  
-- 📌 **[View Dashboard Screenshot](link_to_screenshot.png)**  
+- 📌 **[View Dashboard Screenshot](https://github.com/AashPathan/Data-Analytics-Portfolio/blob/main/Tableau%20EV%20Car%20Dashboard.png)**  
 - 📂 **[Download Tableau File](link_to_file.twbx)**  
 
 ### 4️⃣ Bike Sales Dashboard (Tableau)  
