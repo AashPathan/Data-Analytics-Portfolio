@@ -15,7 +15,7 @@ Welcome to my Data Analytics Portfolio! This repository showcases my projects us
 **Skills Used:** Excel, Power BI, DAX  
 - Created interactive sales reports with revenue trends and customer distribution.  
 - 📌 **[View Dashboard Screenshot](https://github.com/AashPathan/Data-Analytics-Portfolio/blob/main/Sales%20Dashboard%201.png)**
-- 📌 **[View Dashboard Screenshot](https://github.com/AashPathan/Data-Analytics-Portfolio/blob/main/Sales%20Dashboard%201.png)**  
+- 📌 **[View Dashboard Screenshot](https://github.com/AashPathan/Data-Analytics-Portfolio/blob/main/Sales%20Dashboard%202.png)**  
 - 📂 **[Download Power BI File](link_to_file.pbix)**  
 
 ### 3️⃣ Electric Vehicle Market Dashboard (Tableau)  
