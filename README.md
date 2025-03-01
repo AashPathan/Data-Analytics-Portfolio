@@ -27,7 +27,7 @@ Welcome to my Data Analytics Portfolio! This repository showcases my projects us
 ### 4️⃣ Bike Sales Dashboard (Tableau)  
 **Skills Used:** Tableau, Data Exploration  
 - Examined **bike sales by region, category, and seasonality**.  
-- 📌 **[View Dashboard Screenshot](link_to_screenshot.png)**  
+- 📌 **[View Dashboard Screenshot](https://github.com/AashPathan/Data-Analytics-Portfolio/blob/main/Tableau%20Bike%20Sales%20Dashboard.png)**  
 - 📂 **[Download Tableau File](link_to_file.twbx)**  
 
 ## 🔗 How to View Dashboards  
